@@ -5,13 +5,13 @@ This project is a chatbot application that integrates a database to fetch suppli
 
 
 
-# Features
+## Features
 
-- # Chatbot Interface: A user-friendly UI for interacting with the chatbot.
-- # Database Integration: Fetch supplier and product details from a database.
-- # LLM-Powered Responses: Enhances responses with context using Hugging Face or other open-source LLMs.
-- # FastAPI/Flask Backend: A robust backend for managing API requests.
-- # LangGraph Workflow: Manages the chatbot's conversational flow efficiently.
+- Chatbot Interface: A user-friendly UI for interacting with the chatbot.
+- Database Integration: Fetch supplier and product details from a database.
+- LLM-Powered Responses: Enhances responses with context using Hugging Face or other open-source LLMs.
+- FastAPI/Flask Backend: A robust backend for managing API requests.
+- LangGraph Workflow: Manages the chatbot's conversational flow efficiently.
 
 
 ## Prerequisites
