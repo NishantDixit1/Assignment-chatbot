@@ -29,8 +29,8 @@ This project is a chatbot application that integrates a database to fetch suppli
 
 1. Clone the repository:
          
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/NishantDixit1/Assignment-chatbot.git
+   cd Assignment-chatbot
      
 
 2. Create a virtual environment and activate it:
